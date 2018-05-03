@@ -1,7 +1,7 @@
 const sass = require('@stencil/sass');
 
 exports.config = {
-  namespace: 'mycomponent',
+  namespace: 'stencil-components-spike',
   outputTargets:[
     {
       type: 'dist'
