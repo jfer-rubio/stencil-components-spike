@@ -1,0 +1,12 @@
+{
+  "namespace": "StencilComponentsSpike",
+  "fsNamespace": "stencil-components-spike",
+  "loader": "../stencil-components-spike.js",
+  "core": "stencil-components-spike.bgzlnsns.js",
+  "corePolyfilled": "stencil-components-spike.0gtl1pii.js",
+  "components": {
+    "cs-button": {
+      "$": "ebf5kqbb"
+    }
+  }
+}
